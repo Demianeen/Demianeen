@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hey 👋 What's up?
 
-<!--
-**Demianeen/Demianeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Demian and I'm a Front-end dev, from Ukraine
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨&nbsp;Active neovim user  
+📚&nbsp;I'm currently learning Python/Go  
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=demianeen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=demianeen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
