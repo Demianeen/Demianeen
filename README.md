@@ -11,6 +11,6 @@ My name is Demian and I'm a React Front-end dev
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=demianeen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Demianeen&locale=en&hide_title=false&card_width=320&langs_count=5&hide_border=false&exclude_repo=mafia-3D" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Demianeen&locale=en&hide_title=false&card_width=320&langs_count=5&hide_border=false&exclude_repo=mafia-3D&hide=css,javascript" alt="languages graph"  />
 
 ###
