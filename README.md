@@ -1,6 +1,6 @@
 # Hey 👋 What's up?
 
-I'm Demian, a React Front-end dev
+I'm Demian, a React Full-stack dev
 
 ## About me
 
