@@ -4,8 +4,10 @@ I'm Demian, a React Front-end dev
 
 ## About me
 
-✨&nbsp;Active neovim user  
-📚&nbsp;I'm currently learning Python/Go  
+✨&nbsp;Active neovim and nix user  
+📚&nbsp;Trying to learn low level stuff  
+🎨&nbsp;Learning as a hobby
+
 
 ###
 
