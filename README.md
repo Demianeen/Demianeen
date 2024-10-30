@@ -5,8 +5,8 @@ I'm Demian, a React Full-stack dev
 ## About me
 
 ✨&nbsp;Active neovim and nix user  
-📚&nbsp;Trying to learn low level stuff  
-🎨&nbsp;Learning as a hobby
+📚&nbsp;Learning backend development and low level stuff  
+🎨&nbsp;Like to learn and read in free time
 
 
 ###
